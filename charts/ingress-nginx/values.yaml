@@ -902,7 +902,7 @@ defaultBackend:
 
   replicaCount: 2
 
-  minAvailable: 1
+  minAvailable: 2
 
   resources: {}
   # limits:
